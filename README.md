@@ -11,3 +11,5 @@ In the new activity created, I have therefore defined an adapter for the recycle
 
 In the other directory where there is the backend, I defined my "dummy" function GetMessages which returns me a list of messages and if we test this activity we see that everything works, the messages are displayed correctly.
 In the Backend, I removed all the part that used the database because it was bugging everything.
+
+I added link my new activity to the forum button of the main activity.
